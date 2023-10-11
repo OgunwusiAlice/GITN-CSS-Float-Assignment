@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+}
+.msquare {
+}
+
+.square {
+  background-color: blue;
+  height: 300px;
+  width: 500px;
+  margin-top: 200px;
+  margin-left: 200px;
+  position: relative;
+}
+
+.ball {
+  background-color: red;
+  height: 180px;
+  width: 180px;
+  /* float: center; */
+  border-radius: 100px;
+  position: absolute;
+  top: 150px;
+  left: 250px;
+  /* align-items: center; */
+  /* justify-self: center; */
+}
